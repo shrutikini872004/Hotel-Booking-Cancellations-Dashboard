@@ -30,7 +30,7 @@ Interactive Microsoft Excel dashboard uncovering hotel booking trends, cancellat
 
 ## Live Interactive Dashboard
 Click the link below to interact with the live Excel slicers directly in your browser:
-- <a href="https://1drv.ms/x/c/91378932880cf72d/IQAGxQWDqKJWSa8emHb6chuxAQQIg8yJ1UWritG77qfWyhQ?e=fbnR5v">View dashboard</a>
+- <a href="https://1drv.ms/x/c/91378932880cf72d/IQAGxQWDqKJWSa8emHb6chuxAQQIg8yJ1UWritG77qfWyhQ?e=VhQXFU">View dashboard</a>
 
 ## Project Insights
 - Out of 119,390 total bookings, 44,224 bookings were cancelled, resulting in a 37.04% cancellation rate.
