@@ -19,6 +19,12 @@ Interactive Microsoft Excel dashboard uncovering hotel booking trends, cancellat
 ## Dashboard Interaction
 - <a href="https://github.com/shrutikini872004/Hotel-Booking-Cancellations-Dashboard/blob/main/Screenshot%202026-11-18%20135943.png">View Dashboard</a>
 
+## Process
+- Verify hotel booking data for any missing values, duplicates, and anomalies, and sort out the same.
+- Make sure data is consistent and clean with respect to data type, date format, room status, and guest categories.
+- Created pivot tables according to the questions asked (total bookings, cancellations, hotel type, guest type, room match, and monthly trends).
+- Merge all pivot tables and charts into one dashboard and apply year slicer (2015–2017) to make dynamic.
+  
 ## Live Interactive Dashboard
 Click the link below to interact with the live Excel slicers directly in your browser:
 - <a href="https://1drv.ms/x/c/91378932880cf72d/IQAGxQWDqKJWSa8emHb6chuxAQQIg8yJ1UWritG77qfWyhQ?e=fbnR5v">View dashboard</a>
