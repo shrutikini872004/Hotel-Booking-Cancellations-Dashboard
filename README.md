@@ -26,7 +26,7 @@ Interactive Microsoft Excel dashboard uncovering hotel booking trends, cancellat
 - Merge all pivot tables and charts into one dashboard and apply year slicer (2015–2017) to make dynamic.
 
 ## Dashboard
-<img width="856" height="678" alt="Screenshot 2026-11-18 135943" src="https://github.com/user-attachments/assets/5c1cec15-cb76-43db-b1b7-132e5d0d3f94" />
+<img width="856" height="678" alt="image" src="https://github.com/user-attachments/assets/95364e1a-35b7-422b-bbd8-be4586c2c50c" />
 
 ## Live Interactive Dashboard
 Click the link below to interact with the live Excel slicers directly in your browser:
