@@ -16,5 +16,6 @@ Interactive Microsoft Excel dashboard uncovering hotel booking trends, cancellat
 - Which guest segment contributes the highest number of reservations?
 - Percentage of total bookings cancelled vs. checked-out.
 
-## Dashboard View
-- <a href="https://github.com/shrutikini872004/Hotel-Booking-Cancellations-Dashboard/blob/main/Screenshot%202026-11-18%20135943.png">Dashboard</a>
+## Dashboard Interaction
+- <a href="https://github.com/shrutikini872004/Hotel-Booking-Cancellations-Dashboard/blob/main/Screenshot%202026-11-18%20135943.png">View Dashboard</a>
+
