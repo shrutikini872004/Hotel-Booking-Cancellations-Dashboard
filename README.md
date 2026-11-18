@@ -28,7 +28,16 @@ Interactive Microsoft Excel dashboard uncovering hotel booking trends, cancellat
 ## Dashboard
 <img width="856" height="678" alt="Screenshot 2026-11-18 135943" src="https://github.com/user-attachments/assets/5c1cec15-cb76-43db-b1b7-132e5d0d3f94" />
 
-  
 ## Live Interactive Dashboard
 Click the link below to interact with the live Excel slicers directly in your browser:
 - <a href="https://1drv.ms/x/c/91378932880cf72d/IQAGxQWDqKJWSa8emHb6chuxAQQIg8yJ1UWritG77qfWyhQ?e=fbnR5v">View dashboard</a>
+
+## Project Insights
+- Out of 119,390 total bookings, 44,224 bookings were cancelled, resulting in a 37.04% cancellation rate.
+- City Hotels received significantly more bookings and cancellations compared to Resort Hotels.
+- Couples accounted for the highest booking volume and cancellations, while Families had the lowest cancellation count.
+- Most guests received their Desired room type, whereas Un-desired room assignments made up a very small fraction of bookings.
+- Booking demand and cancellations peaked in October and dropped sharply in November and December.
+
+## Final Conclusion
+To reduce the 37.04% cancellation rate, hotel management should focus on City Hotel bookings and Couples, as they drive the highest cancellation volume. Introducing stricter cancellation policies, partial advance deposits during peak months (August–October), and targeted promotional offers in slower winter months (November–December) will help maximize room occupancy and protect revenue.
