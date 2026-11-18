@@ -19,3 +19,6 @@ Interactive Microsoft Excel dashboard uncovering hotel booking trends, cancellat
 ## Dashboard Interaction
 - <a href="https://github.com/shrutikini872004/Hotel-Booking-Cancellations-Dashboard/blob/main/Screenshot%202026-11-18%20135943.png">View Dashboard</a>
 
+## 🔴 Live Interactive Dashboard
+Click the link below to interact with the live Excel slicers directly in your browser:
+- <a href="https://1drv.ms/x/c/91378932880cf72d/IQAGxQWDqKJWSa8emHb6chuxAQQIg8yJ1UWritG77qfWyhQ?e=fbnR5v">View dashboard</a>
